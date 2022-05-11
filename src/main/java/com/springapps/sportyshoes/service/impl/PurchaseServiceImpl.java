@@ -8,7 +8,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.springapps.sportyshoes.dao.PurchaseDao;
-import com.springapps.sportyshoes.entity.Product;
 import com.springapps.sportyshoes.entity.Purchase;
 import com.springapps.sportyshoes.service.PurchaseService;
 

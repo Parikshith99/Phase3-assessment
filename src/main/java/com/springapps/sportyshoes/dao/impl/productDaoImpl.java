@@ -9,7 +9,6 @@ import org.springframework.stereotype.Repository;
 
 import com.springapps.sportyshoes.dao.productDao;
 import com.springapps.sportyshoes.entity.Product;
-import com.springapps.sportyshoes.entity.User;
 
 @Repository
 public class productDaoImpl implements productDao {

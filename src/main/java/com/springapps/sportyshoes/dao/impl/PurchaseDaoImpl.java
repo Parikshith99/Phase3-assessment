@@ -7,7 +7,6 @@ import org.springframework.orm.hibernate5.HibernateTemplate;
 import org.springframework.stereotype.Repository;
 
 import com.springapps.sportyshoes.dao.PurchaseDao;
-import com.springapps.sportyshoes.entity.Product;
 import com.springapps.sportyshoes.entity.Purchase;
 
 @Repository

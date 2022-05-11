@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 
 import com.springapps.sportyshoes.dao.productDao;
 import com.springapps.sportyshoes.entity.Product;
-import com.springapps.sportyshoes.entity.User;
 import com.springapps.sportyshoes.service.productService;
 
 @Service
